@@ -1,0 +1,31 @@
+
+1.Which countries have the highest average contaminant levels in their water sources?
+
+2.What is the average pH level by region, ordered from most acidic to most alkaline?
+
+3.How many distinct water treatment methods are recorded in the dataset?
+
+
+4.Which water source types (lake, river, well, etc.) are associated with the highest bacteria counts on average?
+
+5.How does access to clean water percentage relate to infant mortality rates across different countries?
+
+6.How have cholera cases per 100,000 people changed over the years in each country?
+
+7.Is there a trend in water treatment methods used over time (comparing earlier vs. more recent years)?
+
+8.Compare the average nitrate levels between countries with high vs. low GDP per capita (define your own thresholds).
+
+9.Which countries have both high turbidity (NTU) and high lead concentration in their water?
+
+10.Create a ranking of countries by their overall water quality (consider multiple factors like contaminant level, pH, turbidity, etc.).
+
+11.Identify regions where water treatment methods don't seem to be effectively reducing disease cases.
+
+12.Are there any records with impossible or highly unlikely values (e.g., pH outside 0-14 range)?
+
+13.How complete is the data for each country (percentage of null values per country)?
+
+14.What would be the most insightful way to visualize the relationship between sanitation coverage and waterborne diseases?
+
+15.How could you present the geographical distribution of water quality issues using this data?
